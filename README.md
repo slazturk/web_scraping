@@ -1,5 +1,5 @@
 # Web Scraping
-Projenin Amacı
+Projenin Amacı:
 "https://turkishnetworktimes.com/kategori/gundem/" web sitesindeki veriler requests ve beautifulsoup kütüphaneleri kullanılarak çekilmiştir.
 ----------
 İlk olarak projede istendiği üzere web sitesinin ilk 50 sayfasına ulaşılmıştır. Daha sonra her bir sayfadaki haberlere ulaşabilmek için sayfalar "getEachNews" isimli fonksiyona gönderilmiştir.
